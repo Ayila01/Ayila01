@@ -1,77 +1,122 @@
-# Hi, I'm Ayila KOUKPOLOU 👋
+<div align="center">
+
+# 👋 Hi, I'm Ayila KOUKPOLOU
 
 ### 💻 Data & Dev Enthusiast
 
-🎓 Master's student in **MIAGE – Data Analytics & Business Intelligence** at the **University of Rennes**  
-💡 Interested in **Data Analytics, Business Intelligence, Software Development & APIs**  
-🚀 Building projects at the intersection of **data and software development**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+Business+Intelligence;Software+Development+%7C+REST+APIs;Python+%7C+SQL+%7C+Laravel+%7C+Power+BI;Building+%7C+Analysing+%7C+Learning" alt="Typing animation" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ayila01&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+
+<br><br>
+
+<a href="https://github.com/Ayila01">
+  <img src="https://img.shields.io/badge/GitHub-Ayila01-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/ayila-koukpolou/">
+  <img src="https://img.shields.io/badge/LinkedIn-Ayila%20KOUKPOLOU-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a curious and versatile computer science student with a strong interest in both **software development** and **data**.
+## 🧑‍💻 About Me
 
-My MIAGE background allows me to approach projects from different perspectives: designing and developing applications, working with databases and APIs, analysing data, and building solutions that turn information into useful insights.
+</div>
 
-I'm particularly interested in:
+I'm a **Master's student in MIAGE – Data Analytics & Business Intelligence** at the **University of Rennes**, with a strong interest in both **Data** and **Software Development**.
 
-- 📊 Data Analytics & Business Intelligence
-- 🐍 Python & Data Science
-- 💻 Backend & Web Development
-- 🗄️ SQL & Database Management
-- 🔌 REST API Design & Integration
-- 📈 Data Visualization
-- ⚙️ Optimization & Decision Support
+My background allows me to work across the complete lifecycle of a project:
 
-Currently looking for a **work-study opportunity starting September/October 2026**.
+**Develop → Store → Process → Analyse → Visualize**
+
+I'm particularly interested in building useful solutions by combining software engineering, data analysis and business intelligence.
+
+🎯 Currently looking for a **work-study opportunity starting September/October 2026**.
 
 ---
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### 💻 Development
+## 💻 Development
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Languages & Frameworks
 
-### 📊 Data & Analytics
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,flutter,dart" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<br><br>
 
-### 🗄️ Databases & APIs
+### APIs & Backend
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=databricks&logoColor=white)
+`REST APIs` • `Laravel` • `Eloquent ORM` • `PHP` • `MySQL` • `API Integration`
 
-**REST APIs · Eloquent ORM · PL/SQL · Database Design · Web Scraping**
-
-### ⚙️ Tools & Environment
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+</div>
 
 ---
+
+<div align="center">
+
+## 📊 Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python,r" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<br><br>
+
+`Statistical Analysis` • `PCA` • `Linear Optimization` • `Web Scraping`
+<br>
+`Data Visualization` • `Dashboards` • `Exploratory Data Analysis`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+<br><br>
+
+`SQL` • `MySQL` • `PL/SQL` • `Database Design` • `Data Management`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,unity,linux,vscode" />
+
+<br><br>
+
+`Swagger` • `Jira` • `WordPress` • `Firebase` • `Vuforia`
+
+</div>
+
+---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 📊 European Football Data Analysis
+</div>
 
+### 📊 European Football Data Analysis
 **Python · Pandas · NumPy · Scikit-learn**
 
 Exploratory analysis and **Principal Component Analysis (PCA)** applied to European football data.
@@ -79,13 +124,12 @@ Exploratory analysis and **Principal Component Analysis (PCA)** applied to Europ
 - Exploratory Data Analysis
 - Data preprocessing
 - Statistical analysis
-- Dimensionality reduction
+- PCA
 - Data interpretation and visualization
 
 ---
 
 ### 📈 French First Names Analysis
-
 **Power BI · Excel**
 
 Analysis and visualization of the evolution of **first names in France from 1900 to 2025**.
@@ -99,139 +143,155 @@ Analysis and visualization of the evolution of **first names in France from 1900
 ---
 
 ### ⚙️ Linear Optimization Models
-
 **Python · PuLP**
 
-Implementation of **linear optimization models** to solve decision-making and resource allocation problems.
+Implementation of **linear optimization models** for decision-making and resource allocation problems.
 
 - Mathematical modelling
 - Linear programming
-- Constraint definition
-- Optimization with PuLP
+- Constraints
+- Optimization
 
 ---
 
 ### 🛒 Artisan Products Marketplace
-
 **Laravel · PHP · MySQL**
 
-Web marketplace designed to manage and showcase artisan products.
+Web marketplace for managing artisan products.
 
 - Backend development
 - Database design
 - CRUD operations
+- MySQL management
 - Web application architecture
-- MySQL data management
 
 ---
 
 ### 📱 Cultural & Social Events Application
-
 **Flutter · Dart**
 
-Mobile application for managing tickets for cultural and social events.
-
-- Mobile application development
-- User-oriented interface
-- Event management
-- Ticket management
+Mobile application designed to manage tickets for cultural and social events.
 
 ---
 
 ### 🗃️ Beninese Administrative Data
-
 **PHP · MySQL**
 
 Collection and structuring of administrative data from **INSAE** datasets.
 
 - Data collection
-- Data cleaning
 - Data structuring
+- Data cleaning
 - Relational database management
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-### ONG Solidarité Sans Frontières — Software Development Intern
+## 💼 Experience
+
+</div>
+
+### 🏢 Solidarité Sans Frontières — Software Development Intern
 **April – June 2026 · Bruz, France**
 
-- Developed secure **REST APIs** with Laravel
-- Evolved and managed MySQL databases
+`Laravel` `MySQL` `React` `Docker` `Swagger` `Git` `GitHub` `Jira`
+
+- Developed secure REST APIs
+- Evolved the MySQL database
 - Developed functional modules
 - Documented APIs with Swagger
 - Contributed to frontend development with React
-- Worked in a collaborative environment using Git, GitHub and Jira
-- Used Docker for application containerization
+- Worked collaboratively with Git, GitHub and Jira
+- Containerized the application with Docker
 
-### IWAJU TECH — Software Development Intern
+### 🏢 IWAJU TECH — Software Development Intern
 **August 2024 – July 2025 · Abomey-Calavi, Benin**
 
-Worked on several software projects involving:
+Worked on several projects involving:
 
-- **Flutter · Unity · Vuforia** — Augmented Reality application for promoting Beninese tourism
-- **Laravel · MySQL** — Water and electricity billing management PWA
-- **Flutter · Firebase** — Application supporting Beninese high-school graduates with orientation
-- **Payment API** — Integration of FeexPay
+`Flutter` `Unity` `Vuforia` `Laravel` `MySQL` `Firebase`
 
-### IWAJU TECH — Discovery Internship
+- Augmented Reality application for Beninese tourism
+- Water and electricity billing management PWA
+- Application supporting Beninese high-school graduates with orientation
+- Integration of a payment API
+
+### 🏢 IWAJU TECH — Discovery Internship
 **May – July 2024 · Abomey-Calavi, Benin**
 
-- Developed a job-offer scraping API with Laravel
-- Worked with Python, Java, PHP and JavaScript
-- Performed code testing and maintenance
-- Managed and populated MySQL databases
+`Laravel` `Python` `Java` `PHP` `JavaScript` `SQL` `MySQL`
+
+- Developed a job-offer scraping API
+- Tested and maintained existing applications
+- Worked on database management and population
 
 ---
+
+<div align="center">
 
 ## 🎓 Education
 
-### 🎓 Master MIAGE — Data Analytics & Business Intelligence
-**University of Rennes · France**
+**Master MIAGE — Data Analytics & Business Intelligence**  
+University of Rennes 🇫🇷
 
-### 🎓 Bachelor's Degree in Computer Science — MIAGE
-**University of Rennes · France**
+**Licence Informatique — Parcours MIAGE**  
+University of Rennes 🇫🇷
 
-### 🎓 Bachelor's Degree in Management Information Systems — Data Analysis
-**University of Abomey-Calavi · Benin**
+**Licence Informatique de Gestion — Option Analyse**  
+University of Abomey-Calavi 🇧🇯
 
----
-
-## 📚 Currently Exploring
-
-I'm continuously improving my skills in:
-
-- 🐍 Python & Data Analytics
-- 📊 Business Intelligence
-- 🗄️ SQL & Data Management
-- 🤖 Machine Learning
-- 💻 Software Architecture
-- 🔌 API Development
-- ☁️ Data & Cloud technologies
+</div>
 
 ---
 
-## 📌 What You'll Find Here
+<div align="center">
 
-This GitHub profile is where I share projects related to:
+## 📈 GitHub Activity
 
-```text
-Data Analytics
-    ├── Python
-    ├── Pandas / NumPy
-    ├── Statistics
-    ├── Machine Learning
-    └── Data Visualization
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayila01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
 
-Software Development
-    ├── PHP / Laravel
-    ├── Java
-    ├── JavaScript
-    ├── Flutter
-    └── REST APIs
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayila01&layout=compact&hide_border=true&langs_count=8" />
 
-Data & Databases
-    ├── SQL
-    ├── MySQL
-    ├── PostgreSQL
-    └── Database Design
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayila01&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Exploring
+
+`Python` `Data Analytics` `Business Intelligence` `SQL`
+<br>
+`Machine Learning` `Software Architecture` `REST APIs`
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://github.com/Ayila01">
+<img src="https://img.shields.io/badge/GitHub-Ayila01-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/ayila-koukpolou/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayila%20KOUKPOLOU-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br><br>
+
+📧 **ayilakoukpolou@gmail.com**
+
+<br><br>
+
+### 💻 Data & Dev Enthusiast
+**Building • Analysing • Learning • Improving**
+
+</div>
