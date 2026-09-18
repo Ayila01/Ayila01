@@ -47,7 +47,7 @@ I'm particularly interested in building useful solutions by combining software e
 
 ### Languages & Frameworks
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=php,laravel,java,js,html,css,flutter,dart,kotlin" />
 
 <br><br>
 
