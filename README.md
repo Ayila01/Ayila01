@@ -104,7 +104,7 @@ I'm particularly interested in building useful solutions by combining software e
 
 <br><br>
 
-`Swagger` • `Jira` • `WordPress` • `Firebase` • `Vuforia`
+`Swagger` • `Jira` • `WordPress` • `Firebase` • `Vuforia` • `Android`
 
 </div>
 
