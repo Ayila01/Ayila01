@@ -37,7 +37,7 @@ My background allows me to work across the complete lifecycle of a project:
 
 I'm particularly interested in building useful solutions by combining software engineering, data analysis and business intelligence.
 
-🎯 Currently looking for a **work-study opportunity starting September/October 2026**.
+🎯 Currently looking for a **work-study opportunity starting September/October 2026 | intership starting May 2027**.
 
 ---
 
