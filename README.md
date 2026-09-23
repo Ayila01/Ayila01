@@ -215,7 +215,7 @@ Worked on several projects involving:
 - Augmented Reality application for Beninese tourism
 - Water and electricity billing management PWA
 - Application supporting Beninese high-school graduates with orientation
-- Integration of a payment API
+- Integration of a payment API (FeexPay)
 
 ### 🏢 IWAJU TECH — Discovery Internship
 **May – July 2024 · Abomey-Calavi, Benin**
