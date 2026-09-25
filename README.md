@@ -29,7 +29,7 @@
 
 </div>
 
-I'm a **Master's student in MIAGE – Data Analytics & Business Intelligence** at the **University of Rennes**, with a strong interest in both **Data** and **Software Development**.
+I'm a **Master's student in MIAGE – Data Analytics & Business Intelligence** at the **University of Rennes**, with a strong interest in both **Data** and **Software Development**
 
 My background allows me to work across the complete lifecycle of a project:
 
