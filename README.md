@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Ayila KOUKPOLOU    
+# 👋 Hi, I'm Ayila KOUKPOLOU     
 
 ### 💻 Data & Dev Enthusiast
 
